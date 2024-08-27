@@ -33,7 +33,7 @@ The backend of the project is built with Node.js and follows a layered architect
 
 ## Installing Dependencies
 
-To get started with the project, you need to install the required dependencies for both the backend and frontend. Use the following commands:
+To get started with the project, you need to install the required dependencies for both the backend and frontend. Use the following command:
 
 **npm install**
 
