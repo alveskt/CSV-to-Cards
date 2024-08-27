@@ -1,3 +1,67 @@
 {
-  "players": []
+  "players": [
+    {
+      "id": 1,
+      "name": "Kobe Bryant",
+      "team": "Los Angeles Lakers",
+      "titles": 5,
+      "retired": true
+    },
+    {
+      "id": 2,
+      "name": "Larry Bird",
+      "team": "Boston Celtics",
+      "titles": 5,
+      "retired": true
+    },
+    {
+      "id": 3,
+      "name": "Dwayne Wade",
+      "team": "Miami Heat",
+      "titles": 3,
+      "retired": true
+    },
+    {
+      "id": 4,
+      "name": "Michael Jordan",
+      "team": "Chicago Bulls",
+      "titles": 6,
+      "retired": true
+    },
+    {
+      "id": 5,
+      "name": "Stephen Curry",
+      "team": "Golden State Warriors",
+      "titles": 4,
+      "retired": false
+    },
+    {
+      "id": 6,
+      "name": "Karl Malone ",
+      "team": "Utah Jazz",
+      "titles": 0,
+      "retired": true
+    },
+    {
+      "id": 7,
+      "name": "Patrick Ewing ",
+      "team": "New York Knicks",
+      "titles": 0,
+      "retired": true
+    },
+    {
+      "id": 8,
+      "name": "Kevin Durant ",
+      "team": "Brooklyn Nets",
+      "titles": 2,
+      "retired": false
+    },
+    {
+      "id": 9,
+      "name": "Nikola Jokić ",
+      "team": "Denver Nuggets",
+      "titles": 1,
+      "retired": false
+    }
+  ]
 }
