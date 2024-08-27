@@ -1,0 +1,24 @@
+html{
+  background: linear-gradient(to left, white 20%, gray 80%);
+}
+
+.containerApp {
+  display: flex;
+  align-items:flex-start; 
+  justify-content: space-between; 
+  height: 100vh;
+  padding: 20px;
+}
+.imgHome{
+  margin-left: 20px;
+  height: 100px;
+  padding-bottom: 20px;
+}
+
+.containerApp h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  margin-right: 10px;
+  padding-bottom: 10px;
+}
+

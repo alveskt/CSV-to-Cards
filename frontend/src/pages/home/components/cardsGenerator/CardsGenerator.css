@@ -1,0 +1,60 @@
+.cardsPlayer {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 16px;
+  width: 100%; 
+  box-sizing: border-box; 
+  overflow-x: auto;
+}
+
+.warriors{
+  background: linear-gradient(to right, #255bb9 25%, #fbbb24 80%);
+}
+.lakers{
+  background: linear-gradient(to right,  #743ac4 25%,  #f6de25 80%);
+}
+.bulls{
+  background: linear-gradient(to right, #f00d2b 25%, #342b26 80%);
+}
+.heat{
+  background: linear-gradient(to right, #ba0431 25%, #f8a626 80%);
+}
+.celtics{
+  background: linear-gradient(to right, #0ad242 25%, #eaebeb 80%);
+}
+.jazz{
+  background: linear-gradient(to right, #0a293c 25%, #f2a42e 80%);
+}
+.knicks{
+  background: linear-gradient(to right, #f38424 25%, #16448b 80%);
+}
+.nuggets{
+  background: linear-gradient(to right, #01295d 25%, #eb932f 80%);
+}
+.nets{
+  background: linear-gradient(to right, #342c2c 25%, #b3b3b0 80%);
+}
+.nba{
+  background: linear-gradient(to right, #fd0707 25%, #04448c 80%);
+}
+.cavaliers{
+  background: linear-gradient(to right, #860038 25%, #002B60 80%);
+}
+
+@media (max-width: 1200px) {
+  .cardsPlayer {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 900px) {
+  .cardsPlayer {
+    grid-template-columns: repeat(2, 1fr); 
+  }
+}
+
+@media (max-width: 600px) {
+  .cardsPlayer {
+    grid-template-columns: 1fr;
+  }
+}
