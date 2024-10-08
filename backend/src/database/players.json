@@ -1,3 +1,193 @@
 {
-  "players": []
+  "players": [
+    {
+      "id": 1,
+      "name": "Lebron James ",
+      "team": "Los Angeles Lakers",
+      "titles": 5,
+      "retired": false
+    },
+    {
+      "id": 2,
+      "name": "Stephen curry",
+      "team": "Golden State Warriors",
+      "titles": 4,
+      "retired": false
+    },
+    {
+      "id": 3,
+      "name": "Michal Jordan ",
+      "team": "Chicago Bulls",
+      "titles": 5,
+      "retired": true
+    },
+    {
+      "id": 4,
+      "name": "Dwane Wade",
+      "team": "Miami Heat",
+      "titles": 4,
+      "retired": true
+    },
+    {
+      "id": 5,
+      "name": "Jason Tatum",
+      "team": "Boston Celtics",
+      "titles": 5,
+      "retired": false
+    },
+    {
+      "id": 6,
+      "name": "Patrick Ewing",
+      "team": "New York Knicks",
+      "titles": 4,
+      "retired": true
+    },
+    {
+      "id": 7,
+      "name": "Jason Kid ",
+      "team": "Brookling Nets",
+      "titles": 5,
+      "retired": false
+    },
+    {
+      "id": 8,
+      "name": "Bobby Jones",
+      "team": "Denver Nuggets",
+      "titles": 4,
+      "retired": false
+    },
+    {
+      "id": 9,
+      "name": "Jack Johnson",
+      "team": "Utah Jazz",
+      "titles": 4,
+      "retired": false
+    },
+    {
+      "id": 10,
+      "name": "Lebron James ",
+      "team": "Los Angeles Lakers",
+      "titles": 5,
+      "retired": false
+    },
+    {
+      "id": 11,
+      "name": "Stephen curry",
+      "team": "Golden State Warriors",
+      "titles": 4,
+      "retired": false
+    },
+    {
+      "id": 12,
+      "name": "Michal Jordan ",
+      "team": "Chicago Bulls",
+      "titles": 5,
+      "retired": true
+    },
+    {
+      "id": 13,
+      "name": "Dwane Wade",
+      "team": "Miami Heat",
+      "titles": 4,
+      "retired": true
+    },
+    {
+      "id": 14,
+      "name": "Jason Tatum",
+      "team": "Boston Celtics",
+      "titles": 5,
+      "retired": false
+    },
+    {
+      "id": 15,
+      "name": "Patrick Ewing",
+      "team": "New York Knicks",
+      "titles": 4,
+      "retired": true
+    },
+    {
+      "id": 16,
+      "name": "Jason Kid ",
+      "team": "Brookling Nets",
+      "titles": 5,
+      "retired": false
+    },
+    {
+      "id": 17,
+      "name": "Bobby Jones",
+      "team": "Denver Nuggets",
+      "titles": 4,
+      "retired": false
+    },
+    {
+      "id": 18,
+      "name": "Jack Johnson",
+      "team": "Utah Jazz",
+      "titles": 4,
+      "retired": false
+    },
+    {
+      "id": 19,
+      "name": "Lebron James ",
+      "team": "Los Angeles Lakers",
+      "titles": 5,
+      "retired": false
+    },
+    {
+      "id": 20,
+      "name": "Stephen curry",
+      "team": "Golden State Warriors",
+      "titles": 4,
+      "retired": false
+    },
+    {
+      "id": 21,
+      "name": "Michal Jordan ",
+      "team": "Chicago Bulls",
+      "titles": 5,
+      "retired": true
+    },
+    {
+      "id": 22,
+      "name": "Dwane Wade",
+      "team": "Miami Heat",
+      "titles": 4,
+      "retired": true
+    },
+    {
+      "id": 23,
+      "name": "Jason Tatum",
+      "team": "Boston Celtics",
+      "titles": 5,
+      "retired": false
+    },
+    {
+      "id": 24,
+      "name": "Patrick Ewing",
+      "team": "New York Knicks",
+      "titles": 4,
+      "retired": true
+    },
+    {
+      "id": 25,
+      "name": "Jason Kid ",
+      "team": "Brookling Nets",
+      "titles": 5,
+      "retired": false
+    },
+    {
+      "id": 26,
+      "name": "Bobby Jones",
+      "team": "Denver Nuggets",
+      "titles": 4,
+      "retired": false
+    },
+    {
+      "id": 27,
+      "name": "Jack Johnson",
+      "team": "Utah Jazz",
+      "titles": 4,
+      "retired": false
+    }
+  ]
 }

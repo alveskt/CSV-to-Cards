@@ -31,7 +31,7 @@ router.post("/players", (req: Request, res: Response) => {
 });
 
 //get all player
-router.get('/players', (res: Response) => {
+router.get('/players', (req: Request, res: Response) => {
   const players = getPlayers();
   res.status(200).json(players);
 });
