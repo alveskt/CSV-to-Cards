@@ -18,7 +18,7 @@ The `Card` component represents the individual player cards. It is styled accord
 
 ## Functionality
 
-- **Reading Files**: The application can read and parse CSV files containing basketball player information.
+- **Reading Files**: The application can read and parse CSV files containing basketball player information. No data validation or treatment has been applied, so the data must be in the correct format (string, string, number, boolean), and there must be no commas in the file.
 - **Data Display**: Player information is displayed in cards, with each card showing unique details based on the specifics of each player from the CSV file.
 - **Card Management**: Users can add, edit, and delete cards. Changes are managed through props, allowing updates to be reflected across components.
 - **Styling**: Components are styled based on the selected team, providing a customized look and feel.
